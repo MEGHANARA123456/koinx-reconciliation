@@ -1,0 +1,19 @@
+{
+  "name": "koinx-reconciliation",
+  "version": "1.0.0",
+  "description": "Crypto Transaction Reconciliation Engine",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "csv-parse": "^5.5.3",
+    "csv-stringify": "^6.4.4",
+    "dotenv": "^16.4.1",
+    "uuid": "^9.0.0",
+    "winston": "^3.11.0"
+  }
+}

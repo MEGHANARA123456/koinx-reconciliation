@@ -1,0 +1,3 @@
+{"level":"info","message":"Connected to MongoDB: mongodb://meghanamokshi143_db_user:TTlr7anqOA3ENhLM@ac-efqvf21-shard-00-00.hgqdx1v.mongodb.net:27017,ac-efqvf21-shard-00-01.hgqdx1v.mongodb.net:27017,ac-efqvf21-shard-00-02.hgqdx1v.mongodb.net:27017/?ssl=true&replicaSet=atlas-3scef9-shard-0&authSource=admin&retryWrites=true&w=majority","timestamp":"2026-05-24T16:07:22.192Z"}
+{"level":"info","message":"KoinX Reconciliation Engine running on port 3000","timestamp":"2026-05-24T16:07:22.202Z"}
+{"level":"info","message":"Config: timestampTolerance=300s, quantityTolerance=0.01%","timestamp":"2026-05-24T16:07:22.203Z"}
